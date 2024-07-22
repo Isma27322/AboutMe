@@ -40,6 +40,11 @@ button {
     list-style-type: none;
 }
 
+.bigli{
+    font-size: 20px;
+    font-weight: bold;
+}
+
 button:hover {
     background-color: red;
 }
